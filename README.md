@@ -32,7 +32,8 @@ Flash droughts are defined by the rapid onset and intensification of drought con
 ## Reproduce our experiment
 Download the hydroclimatic input data at catchment scale (HUC4) from the repository [![DOI]()]. Once you have the input datasets downloaded, you can use the use the R package [fdClassify](https://github.com/pedroalencar1/fdClassify/tree/master) to identify the flash drought with different methods. You can also directly download the output fdClassify (i.e., “Flash Drought Indicators by catchment (HUC4)”) from the repository [![DOI]()].The "Flash Drought Indicators by catchment (HUC4)" is used as input to compute the pairwise agreement between flash drought indicators and the event-level agreement between flash drought indicators, using the following analysis scripts:
 
-|Script Name | Description | 
+|Script Name | Description |
+|:-------------------:|:-------------------------------------------:|
 |FDCorrelationMatrix.ipynb | Computes the pairwise agreement between flash drought indicators|
 |FDIndicatorAgreement | Assesses event-level agreement between multiple flash drought indicators|
 
