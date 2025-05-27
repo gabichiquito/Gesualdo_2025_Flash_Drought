@@ -44,7 +44,7 @@ To reproduce the figures,  download the necessary input files and use the script
 | Figure Name |                Script Name                 |                                  Description                                   | 
 |:--------------:|:------------------------------------------:|:------------------------------------------------------------------------------:|
 |Detected flash drought events |[FDNumberEvents_Figure1.ipynb](./FiguresCodes/FDNumberEvents_Figure1.ipynb) | Plots the number of detected flash drought events per indicator and catchment (HUC4)|
-|Flash drought indicator agreement matrix|[FDAgreements_Figure2.ipynb](.FiguresCodes/FDAgreements_Figure2.ipynb)|Visualizes the correlation matrix of flash drought detection methods|
+|Flash drought indicator agreement matrix|[FDAgreements_Figure2.ipynb](./FiguresCodes/FDAgreements_Figure2.ipynb)|Visualizes the correlation matrix of flash drought detection methods|
 |Montana 2017 Case study |[MontanaPlot.ipynb](./FiguresCodes/MontanaPlot.ipynb)| Plots indicators and hydroclimatic variables during a 2017 event in a Montana HUC4 code 0105|
 |Connecticut 2022 Case study|[ConnecticutPlot.ipynb](./FiguresCodes/ConnecticutPlot.ipynb)|Plots indicators and hydroclimatic variables during a 2022 event in a Connecticut HUC4 code 0110|
 |Flash drought mean event duration |[FDMeanDuration_Supplement_01.ipynb](./FiguresCodes/FDMeanDuration_Supplement_01.ipynb)| Calculates and visualizes the average duration of events by method|
