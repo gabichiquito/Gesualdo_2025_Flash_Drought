@@ -1,5 +1,5 @@
 
-**Beyond One-Size-Fits-All: A Path Toward Region-Specific Flash Drought Monitoring and Management**
+## **Beyond One-Size-Fits-All: A Path Toward Region-Specific Flash Drought Monitoring and Management**
 
 Gabriela Gesualdo<sup>1\*</sup> and Antonia Hadjimichael<sup>1</sup>
 
