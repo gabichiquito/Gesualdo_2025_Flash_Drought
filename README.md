@@ -1,15 +1,11 @@
 
-## **Beyond One-Size-Fits-All: A Path Toward Region-Specific Flash Drought Monitoring and Management**
+## **Flash Drought indicators at catchment scale for CONUS**
 
 Gabriela Gesualdo<sup>1\*</sup> and Antonia Hadjimichael<sup>1</sup>
 
 <sup>1 </sup> Department of Geosciences, The Pennsylvania State University, 116 Deike Building, University Park, PA 16801, USA
 
 \* corresponding author: gabriela.gesualdo@psu.edu
-
-## Abstract
-Flash droughts are defined by the rapid onset and intensification of drought conditions- a feature common across various proposed indicators. However, the lack of a standardized definition and detection method makes them particularly difficult to anticipate and manage. This study compares six flash drought indicators across U.S. catchments over a 40-year period to assess detection conditions and potential management implications. We find significant inconsistencies in detection, with substantial variation in the number of events identified and limited agreement between indicators, even among those based on similar variables. A multi-indicator approach can improve robustness but risks underdetection if overly strict, while single-indicator reliance may inflate false positives. Two case studies (Montana 2017; Connecticut 2022) highlight the importance of aligning indicators with regional climate conditions and water-use sectors. Our results emphasize that flash drought monitoring must move beyond one-size-fits-all definitions and adopt region- and sector-specific strategies- validated against observed impacts- to improve early warnings and adaptation.
-
 ---
 ## Data references
 ### Input data
