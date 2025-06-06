@@ -5,7 +5,7 @@ Gabriela Gesualdo<sup>1\*</sup> and Antonia Hadjimichael<sup>1</sup>
 
 <sup>1 </sup> Department of Geosciences, The Pennsylvania State University, 116 Deike Building, University Park, PA 16801, USA
 
-\* corresponding author: gabriela.gesualdo@psu.edu
+#### corresponding author: gabriela.gesualdo@psu.edu
 ---
 ## Data references
 ### Input data
