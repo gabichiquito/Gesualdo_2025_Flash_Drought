@@ -1,4 +1,4 @@
-
+[![DOI]([https://zenodo.org/badge/88797535.svg](https://iopscience.iop.org/article/10.1088/3033-4942/ae1bca))]([https://zenodo.org/badge/latestdoi/88797535](https://iopscience.iop.org/article/10.1088/3033-4942/ae1bca))
 ## **Flash Drought indicators at catchment scale for CONUS**
 
 Gabriela Gesualdo<sup>1\*</sup> and Antonia Hadjimichael<sup>1</sup>
