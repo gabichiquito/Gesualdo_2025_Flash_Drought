@@ -1,4 +1,4 @@
-([![DOI](https://joss.theoj.org/papers/10.21105/joss.06325/status.svg)](https://doi.org/10.21105/joss.06325)
+
 
 ## **Flash Drought indicators at catchment scale for CONUS**
 
@@ -7,7 +7,10 @@ Gabriela Gesualdo<sup>1\*</sup> and Antonia Hadjimichael<sup>1</sup>
 <sup>1 </sup> Department of Geosciences, The Pennsylvania State University, 116 Deike Building, University Park, PA 16801, USA
 
 #### corresponding author: gabriela.gesualdo@psu.edu
----
+
+## Journal reference
+Gesualdo, G. C. and Hadjimichael, A. (2025). Beyond one-size-fits-all: a path toward region-specific flash drought monitoring and management. *Environ. Res.: Water*, 1, 045003,  [https://doi.org/10.1088/3033-4942/ae1bca](https://iopscience.iop.org/article/10.1088/3033-4942/ae1bca)
+
 ## Data references
 ### Input data
 |       Dataset       |               Description                    |               Reference/DOI          |
